@@ -72,6 +72,10 @@ body {
   text-align: center;
 }
 
+.credits-container > p > a {
+  color: var(--white-color);
+}
+
 .inner-wrapper:last-child {
   font-family: Arial, var(--system-ui);
   width: 65%;
